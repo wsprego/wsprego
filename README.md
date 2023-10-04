@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wsprego
+- 👀 I’m interested in an internship position
+- 🌱 I’m currently learning Goal-oriented Java, HTML, CSS, SQL e Hibernate...
+- 💞️ I’m looking to collaborate on with my knowledge as a develper
+- 📫 How to reach me on my Linkedln or right here
