@@ -1,6 +1,6 @@
 # Wesley Da Silva Santos
 
-## Meu CV
+## Currículo
 
 DESENVOLVEDOR BACKEND JAVA JÚNIOR
 Desenvolvedor Java Júnior com experiência profissional em desenvolvimento e qualidade de software, atuando na criação, manutenção e evolução de APIs REST com Spring Boot. Possuo vivência com testes automatizados, integração de sistemas e melhoria de código legado, garantindo qualidade e estabilidade das aplicações.
